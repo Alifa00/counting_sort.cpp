@@ -55,7 +55,7 @@ main ()
     return 0;
 }
 
-```/*void count_sort(double * vec, unsigned int len, int min, int max)
+/*void count_sort(double * vec, unsigned int len, int min, int max)
 
 {
 
@@ -93,7 +93,7 @@ main ()
 	delete [] cnt;
 
 }*/
-```
+
 
 
 void sqr_count_sort(double * vec, unsigned int len, double * result_vec){
